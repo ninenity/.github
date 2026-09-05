@@ -12,7 +12,6 @@
   <p>
     <a href="https://ninenity.com"><img src="https://img.shields.io/badge/Site-ninenity.com-5865F2?style=flat-square" alt="Site da Ninenity"></a>
     <a href="https://discord.gg/sdtvuVEcp9"><img src="https://img.shields.io/badge/Discord-Ninenity-8B5CF6?style=flat-square" alt="Discord da Ninenity"></a>
-    <a href="https://discord.gg/54qU5dZM7z"><img src="https://img.shields.io/badge/Comunidade-NineVerse-CD029C?style=flat-square" alt="Comunidade da NineVerse"></a>
   </p>
 </div>
 
@@ -98,17 +97,8 @@ A Ninenity também desenvolve tecnologias próprias para melhorar a criação de
 
 Também ajudamos comunidades que já estão em funcionamento. Analisamos a estrutura atual, reorganizamos canais, revisamos cargos e permissões, configuramos automações e implementamos melhorias para tornar o ambiente mais funcional e agradável.
 
-## Ninenity e NineVerse
-
-São dois espaços com objetivos diferentes:
-
-- **Ninenity:** conheça nosso trabalho e fale com a equipe sobre servidores, bots e soluções para sua comunidade.
-- **NineVerse:** participe de uma comunidade sobre animes, mangás, games e desenvolvimento.
-
 <div align="center">
   <a href="https://discord.gg/sdtvuVEcp9"><strong>Conhecer a Ninenity</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://discord.gg/54qU5dZM7z"><strong>Entrar na NineVerse</strong></a>
 </div>
 
 ## Vamos construir algo único?
