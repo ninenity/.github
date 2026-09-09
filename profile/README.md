@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://ninenity.com">
-    <img src="./Ninenity_Banner.png" alt="Ninenity — tecnologia e estrutura para comunidades no Discord" width="100%">
+    <img src="./Ninenity_Banner.png" alt="Ninenity, tecnologia e estrutura para comunidades digitais" width="100%">
   </a>
 
-  <h1>Sua comunidade merece mais que canais genéricos.</h1>
+  <h1>Tecnologia e estrutura para quem constrói algo que merece crescer.</h1>
 
   <p>
-    <strong>Servidores profissionais, bots personalizados e ferramentas próprias para comunidades no Discord.</strong>
+    <strong>Automação, organização e ferramentas próprias para projetos e comunidades digitais.</strong>
   </p>
 
   <p>
@@ -17,85 +17,84 @@
 
 ## Sobre a Ninenity
 
-A **Ninenity** ajuda comunidades a crescerem através de servidores bem estruturados, bots personalizados sob demanda e ferramentas próprias para facilitar a gestão e o engajamento.
+A **Ninenity** é um estúdio de tecnologia focado em ajudar projetos e comunidades digitais a crescerem de forma organizada, segura e sustentável.
 
-Mais do que configurar canais ou desenvolver comandos, criamos ambientes funcionais, organizados e preparados para acompanhar a evolução de cada comunidade.
+Trabalhamos com automação sob medida, estrutura de ambientes e desenvolvimento de ferramentas próprias, sempre partindo das necessidades reais de cada projeto, e não de soluções genéricas prontas para qualquer um.
 
-## Nossas soluções
+Mais do que entregar algo funcional, buscamos entender o contexto, o público e os objetivos de cada iniciativa antes de propor uma solução.
+
+## Como trabalhamos
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🤖 Bots personalizados</h3>
+      <h3>⚙️ Automação sob medida</h3>
       <p>
-        Automatizações e funcionalidades desenvolvidas para as necessidades da sua comunidade.
+        Desenvolvemos automações e sistemas personalizados, adaptados à realidade de cada projeto.
       </p>
       <ul>
-        <li>Comandos e fluxos personalizados;</li>
-        <li>Moderação, economia e automações;</li>
-        <li>Sistemas exclusivos para o seu projeto;</li>
-        <li>Integrações e soluções sob demanda.</li>
+        <li>Fluxos e comandos personalizados;</li>
+        <li>Automações de rotina e gestão;</li>
+        <li>Sistemas exclusivos sob demanda;</li>
+        <li>Integrações entre ferramentas e plataformas.</li>
       </ul>
-      <a href="https://discord.gg/sdtvuVEcp9">Solicitar orçamento →</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🏗️ Servidores profissionais</h3>
+      <h3>🏗️ Estrutura e organização</h3>
       <p>
-        Estruturas planejadas para tornar conversas, eventos e interações mais organizados.
+        Planejamos ambientes digitais para tornar a experiência mais clara, funcional e escalável.
       </p>
       <ul>
-        <li>Categorias e canais bem estruturados;</li>
-        <li>Cargos e permissões configurados;</li>
-        <li>Organização visual e funcional;</li>
-        <li>Reformulação de servidores existentes.</li>
+        <li>Organização de espaços e conteúdos;</li>
+        <li>Definição de papéis e permissões;</li>
+        <li>Padronização visual e funcional;</li>
+        <li>Reestruturação de projetos já existentes.</li>
       </ul>
-      <a href="https://discord.gg/sdtvuVEcp9">Solicitar orçamento →</a>
     </td>
     <td width="33%" valign="top">
-      <h3>⚙️ Ferramentas próprias</h3>
+      <h3>🧩 Ferramentas próprias</h3>
       <p>
-        Soluções desenvolvidas pela Ninenity para apoiar administração, segurança e crescimento.
+        Criamos tecnologias e recursos próprios para apoiar gestão, segurança e crescimento.
       </p>
       <ul>
-        <li>Ferramentas para gestão de comunidades;</li>
+        <li>Sistemas de gestão e acompanhamento;</li>
         <li>Recursos de segurança e moderação;</li>
-        <li>Sistemas de métricas e acompanhamento;</li>
-        <li>Projetos próprios em evolução.</li>
+        <li>Métricas e indicadores de atividade;</li>
+        <li>Projetos próprios em constante evolução.</li>
       </ul>
-      <a href="https://ninenity.com/projects/">Conheça nossos projetos →</a>
     </td>
   </tr>
 </table>
 
-## Uma comunidade mais organizada
+## Uma base mais organizada
 
-Cada servidor possui objetivos e públicos diferentes. Por isso, pensamos na experiência dos membros e na rotina dos administradores em cada etapa do projeto.
+Cada projeto tem seu próprio público, ritmo e objetivo. Por isso, pensamos tanto na experiência de quem participa quanto na rotina de quem administra, em cada etapa do trabalho.
 
-| Estrutura organizada                                                   | Automação inteligente                                                           | Comunidades únicas                                                            |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Servidores planejados para facilitar conversas, eventos e engajamento. | Bots desenvolvidos para reduzir tarefas e melhorar a experiência da comunidade. | Uma organização pensada para o objetivo, o tema e o público de cada servidor. |
+| Estrutura pensada | Automação inteligente | Identidade própria |
+| --- | --- | --- |
+| Ambientes planejados para facilitar interações e reduzir fricção. | Sistemas desenvolvidos para reduzir tarefas manuais e ganhar tempo. | Cada projeto é tratado de acordo com seu tema, público e propósito. |
 
-## Métricas para comunidades
+## Dados para decisões melhores
 
-Nossos bots podem contar com sistemas de métricas para ajudar administradores a acompanhar a atividade, o crescimento e o comportamento da comunidade.
+Muitas das nossas soluções contam com sistemas de métricas próprios, pensados para ajudar administradores a acompanhar atividade, crescimento e comportamento ao longo do tempo.
 
-Com informações reunidas em um só lugar, fica mais fácil entender o que está funcionando, identificar oportunidades e tomar decisões melhores para o servidor.
+Com informações centralizadas, fica mais fácil enxergar o que está funcionando, identificar oportunidades e tomar decisões com mais segurança.
 
 ## Nosso ecossistema
 
-A Ninenity também desenvolve tecnologias próprias para melhorar a criação de soluções para comunidades. O **Neutrun** é a nossa base para bots, construída com TypeScript, Discord.js e Express.js, permitindo criar experiências personalizadas e de alta qualidade.
+Além dos projetos sob demanda, a Ninenity desenvolve tecnologias próprias para sustentar e acelerar o que construímos. O **Neutrun** é uma das nossas bases internas, construída com TypeScript, Discord.js e Express.js, usada para criar soluções personalizadas com mais consistência e qualidade.
 
-## Por que escolher a Ninenity?
+## Por que a Ninenity?
 
-- **Soluções sob medida:** cada projeto parte das necessidades reais da sua comunidade.
-- **Organização e praticidade:** estruturas claras, funcionais e fáceis de administrar.
-- **Experiência dos membros:** pensamos na jornada de quem participa do servidor.
-- **Preparação para crescer:** uma base capaz de acompanhar a evolução do projeto.
-- **Atenção à identidade:** respeitamos o objetivo, o tema e o público de cada comunidade.
+- **Soluções sob medida:** cada projeto parte das necessidades reais de quem o pede.
+- **Organização e praticidade:** estruturas claras, funcionais e fáceis de manter.
+- **Foco na experiência:** pensamos em quem usa, não só em quem administra.
+- **Preparo para crescer:** bases construídas para acompanhar a evolução do projeto.
+- **Atenção aos detalhes:** respeitamos o contexto, o tema e o público de cada iniciativa.
 
-## Já possui uma comunidade?
+## Já tem algo em andamento?
 
-Também ajudamos comunidades que já estão em funcionamento. Analisamos a estrutura atual, reorganizamos canais, revisamos cargos e permissões, configuramos automações e implementamos melhorias para tornar o ambiente mais funcional e agradável.
+Também ajudamos a evoluir projetos que já estão no ar. Avaliamos o que existe, identificamos pontos de melhoria e implementamos ajustes para tornar tudo mais funcional, seguro e organizado, sem precisar recomeçar do zero.
 
 <div align="center">
   <a href="https://discord.gg/sdtvuVEcp9"><strong>Conhecer a Ninenity</strong></a>
@@ -103,7 +102,7 @@ Também ajudamos comunidades que já estão em funcionamento. Analisamos a estru
 
 ## Vamos construir algo único?
 
-Conte para a Ninenity o que você deseja criar. Nossa equipe entende as necessidades da sua comunidade e encontra uma solução alinhada ao seu objetivo.
+Conte pra gente o que você está construindo. Entendemos o contexto do seu projeto e ajudamos a encontrar o caminho certo para ele.
 
 <div align="center">
   <a href="https://ninenity.com"><strong>Visitar ninenity.com</strong></a>
@@ -114,5 +113,5 @@ Conte para a Ninenity o que você deseja criar. Nossa equipe entende as necessid
 </div>
 
 <div align="center">
-  <sub>Organização, automação e identidade para comunidades que querem crescer.</sub>
+  <sub>Tecnologia, estrutura e identidade para projetos que querem crescer.</sub>
 </div>
